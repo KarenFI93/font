@@ -42,7 +42,7 @@ body{
   padding:1px;
   border-radius:0px;
  /* border: 1px solid #999;*/
-  width:120px;
+  width:14%;
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -119,13 +119,13 @@ body{
   height: 96px;
 }
 
-@media (min-width:1700px) {
+@media (min-width:1820px) {
 	.panel-tablero div {
   margin:0px auto;
   padding:1px;
   border-radius:0px;
  /* border: 1px solid #999;*/
-  width:140px;
+  width:14%;
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
